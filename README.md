@@ -1,0 +1,1 @@
+Dedicated Application Developer with 2+ years of experience building high performance mobile and cross-platform applications. Strong expertise in Flutter, Dart, iOS (Swift), and modern DevOps workflows, delivering polished, production ready apps for startups, enterprises, and freelance clients worldwide.
