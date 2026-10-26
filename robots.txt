@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.takshpanchalportfolio.buzz
+Sitemap: https://www.takshpanchalportfolio.buzz/sitemap.xml
